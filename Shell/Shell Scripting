@@ -1,1 +1,3 @@
-Create a script file with ".sh" extension (FILENAME.sh). Make the script executable with command chmod +x FILENAME.sh for a script file. Run the script using ./FILENAME.sh
+Create a script file with ".sh" extension (FILE_NAME.sh). 
+Make the script executable with command chmod +x FILE_NAME.sh for a script file. 
+Run the script using ./FILE_NAME.sh
