@@ -1,1 +1,2 @@
 while true; do curl IP_ADDRESS; done
+while true; do wget -q -O HTTPS_URL:PORT_NO; done
