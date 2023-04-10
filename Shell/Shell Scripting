@@ -2,3 +2,4 @@ Create a script file with ".sh" extension (FILE_NAME.sh).
 Make the script executable with command "chmod +x FILE_NAME.sh" for a script file. 
 Run the script in different ways. 
 ● ./FILE_NAME.sh
+● sh FILE_NAME.sh
