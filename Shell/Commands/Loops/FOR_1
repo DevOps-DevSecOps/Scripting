@@ -1,0 +1,5 @@
+$ for i in 1 2 3 4 5; do echo $i; done
+
+$ for i in 3 5 7 9 11 44; do echo $i; done
+
+$ for i in 3 43 44 11 9; do echo $i; done
