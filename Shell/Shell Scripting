@@ -1,5 +1,7 @@
 Create a script file with ".sh" extension (FILE_NAME.sh). 
 Make the script executable with command "chmod +x FILE_NAME.sh" for a script file. 
+It is used for automation task, instead of doing manual human intervention.
+
 Run the script in different ways. 
 ● ./FILE_NAME
 ● ./FILE_NAME.sh
