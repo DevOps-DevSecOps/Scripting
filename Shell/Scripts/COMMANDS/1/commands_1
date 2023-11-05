@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Create a Folder
+mkdir AWS_DevOps
+
+# switch into a Directory
+cd AWS_DevOps
+
+# creating a files
+touch file1 file2
