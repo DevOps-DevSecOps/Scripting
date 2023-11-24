@@ -1,0 +1,16 @@
+$ ./Parameters_3.sh 3
+C-style for loop: 0
+C-style for loop: 1
+C-style for loop: 2
+C-style for loop: 3
+For loop with a range: 1
+For loop with a range: 2
+For loop with a range: 3
+For loop with a range: 4
+For loop with a list of words: zero
+For loop with a list of words: one
+For loop with a list of words: two
+For loop with a list of words: three
+For loop with a collection of words: How
+For loop with a collection of words: To
+For loop with a collection of words: Geek
