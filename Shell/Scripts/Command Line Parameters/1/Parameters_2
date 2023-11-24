@@ -1,0 +1,11 @@
+$ ./Parameters_2.sh 13
+Buy it!
+
+$ ./Parameters_2.sh 14
+Buy it!
+
+$ ./Parameters_2.sh 15
+Too expensive.
+
+$ ./Parameters_2.sh 16
+Too expensive.
