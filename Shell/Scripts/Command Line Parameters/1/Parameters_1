@@ -1,0 +1,21 @@
+$0
+The name of the script.
+
+$#
+The he number of parameters that were provided on the command line.
+
+$@
+The string that contains all of the command line parameters will be listed.
+
+$2
+access a single particular parameter value.
+
+[execute the command with parameters]
+$ ./Parameters_1.sh command line parameter 2023
+This script is called: ./Parameters_1.sh
+You used 4 command line parameters
+command
+line
+parameter
+2023
+Parameter 2 was: line
