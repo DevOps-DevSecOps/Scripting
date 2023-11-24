@@ -3,8 +3,11 @@ Make the script executable with command "chmod +x FILE_NAME.sh" for a script fil
 It is used for automation task, instead of doing manual human intervention.
 
 Run the script in different ways. 
+● . FILE_NAME.sh
 ● ./FILE_NAME
-● ./FILE_NAME.sh
+  ./FILE_NAME.sh
   ./FOLDER_NAME/FILE_NAME.sh
 ● sh FILE_NAME
-● sh FILE_NAME.sh
+  sh FILE_NAME.sh
+● bash FILE_NAME.sh
+● source FILE_NAME.sh
