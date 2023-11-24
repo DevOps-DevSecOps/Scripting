@@ -1,0 +1,8 @@
+$ ./for_11.sh n*.sh
+-rw-rw-r--  1 ubuntu ubuntu  118 Nov 14 10:10 number-range1.sh
+-rw-rw-r--  1 ubuntu ubuntu  118 Nov 14 10:10 number-range2.sh
+
+$ ./for_11.sh n*.sh python.py 
+-rw-rw-r--  1 ubuntu ubuntu  118 Nov 14 10:10 number-range1.sh
+-rw-rw-r--  1 ubuntu ubuntu  118 Nov 14 10:10 number-range2.sh
+-rw-r--r--  1 ubuntu ubuntu 1068 Nov 14 10:10 python.py
