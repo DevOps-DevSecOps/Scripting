@@ -1,0 +1,3 @@
+$ ./functions_4.sh abhi shek
+1st argument to script is abhi and 2nd is shek
+1st argument to function is shek and 2nd is abhi
