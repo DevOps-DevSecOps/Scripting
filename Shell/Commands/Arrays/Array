@@ -19,7 +19,7 @@ $ array_name[N]=new_value
   distros[7]=Slackware                                                  7th position (index 6)
   distros[2]=Debian                                                     3rd position (index 2)
 
-To delete an array element.
+To delete an array elements.
 $ unset array_name[N]
   unset distros[3]
 
