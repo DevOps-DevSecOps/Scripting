@@ -1,0 +1,27 @@
+The array elements are accessed using the index. To access array element at index N.
+The array starts at index 0, This means the first element has index 0, the second element has index 1 and the nth element has upto.
+$ echo ${array_name[N]}
+  echo ${distros[2]}
+
+To access all array elements at once.
+$ echo ${array_name[*]}
+  echo ${distros[*]}
+
+The length of elements.
+$ echo ${#array_name[@]}
+  echo ${#distros[@]}
+
+To add array elements.
+$ array_name+=("new_value")
+  distros+=(void)
+
+$ array_name[N]=new_value
+  distros[7]=Slackware                                                  7th position (index 6)
+  distros[2]=Debian                                                     3rd position (index 2)
+
+To delete an array element.
+$ unset array_name[N]
+  unset distros[3]
+
+$ unset array_name
+  unset distros
