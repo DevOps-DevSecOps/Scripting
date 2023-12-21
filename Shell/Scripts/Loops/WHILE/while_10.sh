@@ -10,4 +10,4 @@ done
 
 
 # Infinite While Loop
-# Press ctrl+z to stop
+# Press ctrl+c to stop
