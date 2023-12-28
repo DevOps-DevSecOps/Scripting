@@ -38,4 +38,5 @@ User entered & Special Character
 $ ./case_2.sh
 Enter some character : aB1&
 Unknown Input
+
 '
