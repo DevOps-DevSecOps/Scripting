@@ -56,7 +56,7 @@ then
   echo "condition is true"
 fi
 
-if [ $word != "abc" ]
+if [ $word != "abcd" ]
 then
   echo "condition is true"
 fi
