@@ -39,7 +39,10 @@ again list the file and now it will be deleted.
 $ ls /home/ec2-user/
 
 again recreate and list the file is available.
-$ touch /home/ec2-user/
+$ touch /home/ec2-user/package-lock.json
+
+again list the file is available.
+$ ls /home/ec2-user/
 package-lock.json
 
 execute the script, with sending a signal from another terminal.
