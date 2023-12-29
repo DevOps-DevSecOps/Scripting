@@ -1,5 +1,7 @@
 #! /bin/bash
 
+echo "**---ONE---**"
+
 count=10
 
 if [ $count -eq 10 ]
@@ -12,7 +14,7 @@ then
   echo "condition is true"
 fi
 
-
+echo "**---TWO---**"
 
 count_0=10
 
@@ -26,7 +28,7 @@ then
   echo "condition is true"
 fi
 
-
+echo "**---THREE---**"
 
 count_1=10
 
@@ -45,7 +47,7 @@ then
   echo "condition is true"
 fi
 
-
+echo "**---FOUR---**"
 
 word=abc
 
@@ -59,7 +61,7 @@ then
   echo "condition is true"
 fi
 
-
+echo "**---FIVE---**"
 
 words=a 
 
