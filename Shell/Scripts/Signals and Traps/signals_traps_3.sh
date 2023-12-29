@@ -17,6 +17,10 @@ exit 0
 # MultipleLine Comments
 : '
 
+list the file is available.
+$ ls /home/ec2-user/
+package-lock.json
+
 execute the script, without sending a signal.
 $ ./signals_traps_3.sh
 pid is 19333
@@ -31,8 +35,11 @@ pid is 19333
 9
 10
 
-list the file is available.
+again list the file and now it will be deleted.
 $ ls /home/ec2-user/
+
+again recreate and list the file is available.
+$ touch /home/ec2-user/
 package-lock.json
 
 execute the script, with sending a signal from another terminal.
